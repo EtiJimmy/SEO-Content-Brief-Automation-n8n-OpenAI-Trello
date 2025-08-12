@@ -57,7 +57,8 @@ Search volume, Competition level, Click potential. That would result in even mor
 <img width="1082" height="691" alt="Screenshot 2025-08-12 at 14 25 46" src="https://github.com/user-attachments/assets/d068f9b7-6bb2-4fe3-a664-1f174ae0ab67" />
 
 
-Scenario:
+**Scenario:**
+
 Your marketing team shares a Google Sheet for keyword ideas. Once someone adds "Online Alcohol Delivery in Lagos", the workflow:
 
 Picks up the keyword
@@ -111,10 +112,12 @@ Best online liquor store Lagos
 Convenient alcohol delivery Lagos
 
 **Note**
+
 Ensure the content is informative, engaging, and optimized for the target audience's search intent. Incorporate local references and highlight the unique aspects of online alcohol delivery services in Lagos to attract and engage the audience effectively.
 
 
 **Requirements**
+
 - n8n
 
 - Google Sheets API access
